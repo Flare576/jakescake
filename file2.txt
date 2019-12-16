@@ -1,0 +1,4 @@
+this is a file where only this line is important.
+
+/* All of this is MY CODE AND YOU CAN'T HAVE IT */
+Well... ok, just the first time.
